@@ -10,13 +10,17 @@ void fuck(){   //写函数
     char str[25];
     int c = a +b;
     const char *d = itoa(c, str, 10);
-    printf("%s", d);
+    const char *q = "6666";
+    printf("%s\n", d);
+    printf("%s\n", q);
 
 }
 
 int main() {
     printf("fuck, World!\n");
     fuck();
+    hello();
+    hellostatic();
     return 0;
 }
 
