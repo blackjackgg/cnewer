@@ -1,2 +1,6 @@
 # Project exclude paths
 /cmake-build-debug/
+/dllsrc/untitled4/.idea/
+/dllsrc/untitled4/cmake-build-debug/
+/staticsrc/untitled3/.idea/
+/staticsrc/untitled3/cmake-build-debug/
